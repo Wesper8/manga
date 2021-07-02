@@ -1,0 +1,17 @@
+{
+  "title": "<Former General Is Undead Knight RU>",
+  "description": "<Ламбер - бывший генерал, живший во времена войн. Его правитель решил убить его, потому что он был слишком популярен среди народа и мог попробовать захватить власть. Спустя 200 лет его воскрешают в качестве нежити и он начинает познавать новый для себя мир.>",
+  "artist": "<SHUKO>",
+  "author": "<Nekoko>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<4>": {
+      "title": "<>",
+      "volume": "<1>",
+      "groups": {
+        "<Vendetta>": "/proxy/api/imgur/chapter/<32qhHxq>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
