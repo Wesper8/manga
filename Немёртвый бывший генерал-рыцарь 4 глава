@@ -1,15 +1,15 @@
 {
-  "title": "<Former General Is Undead Knight RU>",
-  "description": "<>",
-  "artist": "<SHUKO>",
-  "author": "<Nekoko>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "Former General Is Undead Knight RU",
+  "description": "",
+  "artist": "SHUKO",
+  "author": "Nekoko",
+  "cover": "mangacoverurl.jpg",
   "chapters": {
-    "<4>": {
-      "title": "<>",
-      "volume": "<1>",
+    "4": {
+      "title": "",
+      "volume": "1",
       "groups": {
-        "<Vendetta>": "/proxy/api/imgur/chapter/<32qhHxq>/"
+        "Vendetta": "/proxy/api/imgur/chapter/32qhHxq/"
       },
       "last_updated": "1616368746"
     }
